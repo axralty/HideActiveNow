@@ -2,7 +2,7 @@
  * @name HideActiveNow
  * @author axy
  * @authorLink https://github.com/axralty
- * @source https://github.com/axralty
+ * @source https://github.com/axralty/HideActiveNow
  * @description Hides the "Active Now" panel on the right side of Discord.
  * @version 1.0.0
  */
